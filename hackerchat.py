@@ -29,7 +29,7 @@ print("""
             |  |  |/   \_ |  |  ||  _  |  |  |  
             |  |  |\     ||  |  ||  |  |  |  |  
             l__j__j \____jl__j__jl__j__j  l__j  
-                                        -Coded by GaskmanTR-
+                                        -Coded by Drex-
 """)
 
 all_proxies = requests.get('https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=1000&country=all&ssl=all&anonymity=all').text
